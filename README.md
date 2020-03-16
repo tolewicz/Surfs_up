@@ -7,7 +7,7 @@ Conducted data analysis to determine potential business risk for ice cream shop 
 
 ## Resources
 
--	Software: Python 3.7.6 with panda and sqlite packages, Jupiter Notebook
+-	Software: Python 3.7.6 with panda and sqlite packages, Jupiter Notebook, program: climate_analysis-challenge.ipynb
 - hawaii.sqlite weather data basis
 
 
@@ -69,7 +69,7 @@ Fig. 5. Averate year to year weather variation trace for June (2010-2017)
 <img src="https://github.com/tolewicz/surfs_up/blob/master/Images/Fig6.PNG" width="700" height= "250">
 </p>
 
-Fig. 6. Averate year to year weather variation trace for J December (2010-2017)
+Fig. 6. Averate year to year weather variation trace for December (2010-2017)
 
 Investment in ice cream shop on Oahu has low risk due to the weather. Even though the average rain precipitation in December is 50% larger than in June the impact of the in December can be mitigated with good weather in June.
 
